@@ -1,4 +1,4 @@
-Mosquitto Exporter
+Mosquitto Exporter (changed docker image to allow for arm64 architecture, f.ex a Raspberry Pi 4B)
 =============================
 Prometheus exporter for the [Mosquitto MQTT message broker](https://mosquitto.org/).
 
